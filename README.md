@@ -1,9 +1,9 @@
 # RC Glider
 ## ℹ️ What is it?
-This project aims to convert "Play Live" toy glider from Lidl into remote controlled UAV.
+This project aims to convert "Play Live" toy glider from Lidl into a remote controlled UAV.
 
 ## 📚 Hardware and Mechanics
-### Part list
+### Compoment list
 | Component 	| Part 	|  Additional info	|  Link |
 |---	|---	|---	|---	|
 | Flight Control Unit (FCU) | ESP32S3	| Powered from BEC, should take care of wing servos, maybe camera, gyro and lights | - |
@@ -26,5 +26,5 @@ This project aims to convert "Play Live" toy glider from Lidl into remote contro
 ## 💻 Software
 ### PLACEHOLDER
 
-💌 Special thanks
+## 💌 Special thanks
 ### PLACEHOLDER
